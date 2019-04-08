@@ -43,8 +43,6 @@ else if (calculatorFunction.toLowerCase() == "a") {
 else {
   alert("Invalid entry. Please try again.")
   var calculatorFunction = prompt("Which calculator would you like to use? ((b)asic or (a)dvanced)");
-
 }
 
-// How to take string inputs into a mathematical equation - chain together different inputs
-// -> is it even possible with operators? - or do I need to create something specific and different?
+/
